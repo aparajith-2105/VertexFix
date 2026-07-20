@@ -372,6 +372,7 @@ text-align:center;
 border:2px solid yellow;
 background-color:yellow;
 transition:background-color 1s;
+    max-width:100px;
 height:auto;
 margin:30px;
 }
@@ -383,6 +384,7 @@ display:grid;
 text-align:center;
 border:2px solid white;
 transition:background-color 1s;
+    max-width:100px;
 height:auto;
 margin:30px;
 }
@@ -395,6 +397,7 @@ text-align:center;
 border:2px solid blue;
 background-color:blue;
 transition:background-color 1s;
+    max-width:100px;
 height:auto;
 margin:30px;
 }
