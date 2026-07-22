@@ -381,8 +381,6 @@ border:2px solid yellow;
 background-color:yellow;
 transition:background-color 1s;
     max-width:110px;
-    padding:2px;
-height:auto;
 margin:30px;
 }
 .h2:hover{
@@ -394,7 +392,6 @@ text-align:center;
 border:2px solid white;
 transition:background-color 1s;
     max-width:110px;
-height:auto;
 margin:30px;
 }
 .h3:hover{
@@ -407,8 +404,6 @@ border:2px solid blue;
 background-color:blue;
 transition:background-color 1s;
     max-width:100px;
-height:auto;
-    padding:2px;
 margin:30px;
 }
 .h4:hover{
@@ -443,11 +438,11 @@ margin:30px;
 background-color:white;
 }
 .i3{
-width:15%;
+width:20%;
 margin:20px 0;
 }
 .i4{
-width:15%;
+width:20%;
 margin:20px 0;
 }
 .i5{
