@@ -381,7 +381,7 @@ border:2px solid yellow;
 background-color:yellow;
 transition:background-color 1s;
     max-width:110px;
-    padding:5px;
+    padding:2px;
 height:auto;
 margin:30px;
 }
@@ -408,7 +408,7 @@ background-color:blue;
 transition:background-color 1s;
     max-width:100px;
 height:auto;
-    padding:5px;
+    padding:2px;
 margin:30px;
 }
 .h4:hover{
