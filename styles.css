@@ -393,9 +393,8 @@ display:grid;
 text-align:center;
 border:2px solid white;
 transition:background-color 1s;
-    max-width:100px;
+    max-width:110px;
 height:auto;
-    padding:5px;
 margin:30px;
 }
 .h3:hover{
