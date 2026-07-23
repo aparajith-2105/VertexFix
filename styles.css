@@ -382,6 +382,7 @@ background-color:yellow;
 transition:background-color 1s;
     max-width:110px;
 margin:30px;
+    min-height:30px;
 }
 .h2:hover{
 background-color:gray;
@@ -392,6 +393,7 @@ text-align:center;
 border:2px solid white;
 transition:background-color 1s;
     max-width:110px;
+    min-height:30px;
 margin:30px;
 }
 .h3:hover{
@@ -404,6 +406,7 @@ border:2px solid blue;
 background-color:blue;
 transition:background-color 1s;
     max-width:100px;
+    min-height:30px;
 margin:30px;
 }
 .h4:hover{
