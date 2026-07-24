@@ -84,8 +84,8 @@ background-attachment:fixed;
 background-repeat:no-repeat;
 background-size: cover;
 background-position: center;
-min-height:calc(100vh-100px);
-opacity:0.8;
+min-height:100%;
+opacity:0.9;
 text-align:center;
 }
 .b{
